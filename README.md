@@ -1,3 +1,11 @@
+> Dashboard interactif d’analyse et de suivi des stocks : entrées, sorties, valeurs financières et alertes critiques.
+
+---
+
+# 🧾 Stock Management Dashboard
+
+
+
 # 🧾 Stock Management Dashboard
 
 ## 📊 Description du projet
